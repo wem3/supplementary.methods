@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            supplementary.methods
+tagline:          'read the abstract, look at the graph'
+description:      'supplementary.methods is/are an ongoing saga of romance, suspense, betrayal, and the empirical quest for truth in the shadows of an all-consuming blob'
+url:              http://wem3.github.io/supplementary.methods
+paginate:         5
+
+author:
+  name:           'Will Moore'
+  url:            https://wem3.github.io
+
+# Custom vars
+version:          1.0.0
+
+github:           [Repository metadata]
+
