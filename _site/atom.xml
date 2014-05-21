@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>supplementary.methods</title>
- <link href="http://wem3.github.io/supplementary.methods/atom.xml" rel="self"/>
- <link href="http://wem3.github.io/supplementary.methods/"/>
- <updated>2014-05-21T13:53:54-07:00</updated>
- <id>http://wem3.github.io/supplementary.methods</id>
+ <link href="/supplementary.methods/atom.xml" rel="self"/>
+ <link href="/supplementary.methods/"/>
+ <updated>2014-05-21T14:28:19-07:00</updated>
+ <id>https://wem3.github.io/supplementary.methods</id>
  <author>
    <name>Will Moore</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>ways to enhance development</title>
-   <link href="http://wem3.github.io/supplementary.methods/self/2014/05/20/supplementary.methods/"/>
+   <link href="/supplementary.methods/self/2014/05/20/supplementary.methods/"/>
    <updated>2014-05-20T00:00:00-07:00</updated>
-   <id>http://wem3.github.io/supplementary.methods/self/2014/05/20/supplementary.methods</id>
+   <id>/supplementary.methods/self/2014/05/20/supplementary.methods</id>
    <content type="html">&lt;p&gt;Does no one ever read the supplementary methods? No, err, yes. Sometimes?&lt;/p&gt;
 
 &lt;p&gt;Every once in a great scientific while, an experiment resonates so strongly with a budding young scientist that he or she enthusiastically tears into the supplement with a vim and gusto that scream &amp;quot;isn&amp;#39;t graduate school a sauce more awesome than any hitherto sampled?!&amp;quot;&lt;/p&gt;
