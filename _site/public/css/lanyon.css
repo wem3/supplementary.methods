@@ -305,7 +305,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #c16001;
+  color: #ab550;
 }
 .page-title,
 .post-title {
@@ -324,7 +324,7 @@ a.sidebar-nav-item:focus {
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #c16001;
+  border-top: 1px solid #ab550;
 }
 .related-posts {
   padding-left: 0;
